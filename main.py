@@ -12,7 +12,7 @@ import common
 import input
 import foreground_extractor
 import mhi
-import shape
+# import shape
 import detect2
 # import alarm
 
